@@ -1,0 +1,30 @@
+/* app.component.scss */
+
+/* Add your styles for the component here */
+:host {
+    display: block;
+    padding: 16px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.header {
+    background-color: #f8f9fa;
+    padding: 16px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.content {
+    padding: 16px;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 16px;
+    border-top: 1px solid #dee2e6;
+    text-align: center;
+}
